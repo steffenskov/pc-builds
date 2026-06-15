@@ -3,7 +3,7 @@
 ## 15-06-2026
 
 Komponent | SKU | Pris | Noter | Link til model
----
+---|---|---|---|---
 Bundkort | B650 eller B850 | 1113 | Billigste sikre model med kapacitet til opgradering | https://www.pricerunner.dk/pl/35-3415941407/Bundkort/MSI-B850M-Gaming-Plus-Wifi6E-AM5-Micro-ATX-Support-Sammenlign-Priser
 CPU | 7800x3D | 2330 | ca. 2-3% langsommere end 9800x3D som koster markant mere | https://www.pricerunner.dk/pl/40-3214876618/CPUs/AMD-Ryzen-7-7800X3D-4.20GHz-Socket-AM5-Tray-Sammenlign-Priser 
 Køler | Arctic Freezer III 240, 280 eller 360 | 382 | Vandkøling er at foretrække, men en god luftkøler kan også gå an – de er dog ofte dyrere | https://www.pricerunner.dk/pl/184-3412618176/Computer-koeling/Arctic-Liquid-Freezer-III-Pro-240-CPU-Water-Cooler-Sammenlign-Priser 
@@ -15,7 +15,7 @@ Kabinet | Frit valg, dette er billigt og *ok* | 348 | Kan kun tage en 240mm AIO,
 
 Alternativer 
 Komponent | SKU | Pris forskel | Noter | Link til model
----
+---|---|---|---|---
 GFX | Nvidia 5070 TI | 1110 | Kender ikke modellerne, da de (IMO) ikke giver mening at købe pga. Pris | 
 GFX | 9070XT Reaper | -500 | Ret støjende køler, jeg ville ikke selv vælge den | https://www.pricerunner.dk/pl/37-3396383352/Grafikkort/Powercolor-Reaper-RX9070XT-16G-A-Sammenlign-Priser 
 
